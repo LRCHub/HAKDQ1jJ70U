@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ILYSB (STRIPPED)",
+  "base_artist": "LANY",
+  "createdAt": "2026-04-03T14:21:04.523162Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ILYSB - STRIPPED",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/01_ILYSB_-_STRIPPED_LANY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ILYSB (Stripped)",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/02_ILYSB_(Stripped)_LANY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ILYSB (Stripped)",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/03_ILYSB_(Stripped)_LANY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "28 ILYSB (STRIPPED)",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/04_28_ILYSB_(STRIPPED)_LANY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ILYSB (Stripped)",
+      "artist": "LANY",
+      "has_synced": false,
+      "path": "select/pl_01_ILYSB_(Stripped)_LANY.txt"
+    }
+  ]
+}
